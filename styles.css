@@ -1,0 +1,226 @@
+body{
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;;
+  
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding: 10px 0 0 20px;
+  height: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  display: inline-block;
+}
+.acronym {
+  padding-left: 10px;
+}
+.top-left {
+  padding-top:0px;
+  padding-left: 15px;
+  float: left;
+  font-size: 1rem;
+  
+}
+.header {
+  
+    padding: 0 0 35px 0;
+    background-color: rgb(32, 101, 136);
+    
+}
+.text1 {
+  margin: 0 auto;
+  background-color: rgb(32, 101, 136);
+  color: #f4f4f4;
+  margin-top: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+ }
+ .text1-left {
+  padding: 15px 40px 40px 200px;
+  float:left;
+  text-align: left;
+  color: #f4f4f4;
+  margin-top: 125px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 30%;
+ }
+ .searchbar {
+  background-color: rgb(32, 101, 136);
+  padding: 0 0 0 15px;
+  
+ }
+ .logo-img {
+   max-width: 25%;
+   height: auto;
+ }
+ .search-input {
+  background-color: rgb(31, 82, 111);
+  width: 1100px;
+  border: 1px solid rgb(31, 82, 111);
+}
+.lnk-btn1 {
+  background-color: rgb(240, 146, 51);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  width: 150px;
+  margin: 40px auto 0;
+  padding: 14px 20px;
+  border: 2px solid #000000 0.2;
+  border-radius: 25px;
+  float:left; 
+}
+.img-right {
+  padding: 15px 40px 40px 200px;
+  float:right;
+  text-align: right;
+  color: #f4f4f4;
+  margin-top: 125px;
+  
+  width: 30%;
+}
+.background-img{
+  background-image: url("images/city-scape.svg");
+  position: 0, 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section1-colab {
+  float: left;
+  width: 30%;
+  margin: 0;
+  background-color: rgb(39, 53, 71);
+  padding-left: 15%;
+  padding-top: 10%;
+  padding-bottom: 20px;
+  padding-right: 10%;
+  
+  }
+  .section1-content {
+    background-color: rgb(39, 53, 71);
+    color: #f4f4f4;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+  }
+  .section1-link {
+    font-size: 1em;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .section2-content {
+    padding: 15px 40px 40px 200px;
+    float:left;
+    text-align: left;
+    color: #f4f4f4;
+    margin-top: 125px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+     
+   }
+   .section2-background {
+    margin: 0 auto;
+    padding-top: 30%;
+    color: #f4f4f4;
+    margin-top: 0px;
+    font-family: Source Sans Pro;
+    }
+    .lnk-btn2 {
+      background-color: rgb(203, 56, 55);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1em;
+      letter-spacing: 0.5px;
+      text-align: center;
+      text-decoration: none;
+      display: block;
+      width: 150px;
+      margin: 40px auto 0;
+      padding: 14px 20px;
+      border: 2px solid #000000 0.2;
+      border-radius: 25px;
+      float:left;
+    }
+    .lnk-btn3 {
+      background-color: rgb(49, 68, 88);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1em;
+      letter-spacing: 0.5px;
+      text-align: center;
+      text-decoration: none;
+      display: block;
+      width: 150px;
+      margin: 40px auto 0;
+      padding: 14px 20px;
+      border: 2px solid #000000 0.2;
+      border-radius: 25px;
+      float:left;
+    }
+ 
+    .section3-heading {
+      margin: 0 auto;
+      text-align: center;
+      color: rgb(83, 88, 98);
+      padding-top: 20px;
+    }
+    
+    .section3-container {
+      width: 600px;
+      text-align: center;
+      margin: 0 auto;
+      padding: 50px 0;
+      
+    }
+    
+    .col {
+      float: left;
+    }
+    
+    .col-3 {
+      width: 33%;
+      margin: 0 auto;
+      
+    }
+    
+    .col-middle {
+      margin: 0 5% 0 5%;
+    }
+    
+    .clearfix {
+     clear: both;
+    } 
+ 
+    .section3-links {
+      font-size: 1em;
+      text-decoration: none;
+      color: rgb(208, 74, 73);
+    }
+    .col-right {
+      float: right;
+    }
+
